@@ -2,9 +2,11 @@
 
 A new Flutter project. This is a expense reporter project that helps you track your expenses.
 
-![Screenshot 2023-06-19 at 15 55 51](https://github.com/vedat73/expense_reporter/assets/32343921/86c75353-88cf-4ebd-a2e7-5d846beb3a9f)
+![Screenshot 2023-06-19 at 16 00 15](https://github.com/vedat73/expense_reporter/assets/32343921/f818c2a4-3fa7-4e3b-a4ad-adb8cf448120)
 
-![Screenshot 2023-06-19 at 15 56 28](https://github.com/vedat73/expense_reporter/assets/32343921/97a1c41c-c184-407e-a338-d23929298972)
+![Screenshot 2023-06-19 at 16 00 45](https://github.com/vedat73/expense_reporter/assets/32343921/6fb03795-b7a0-4844-b882-f24d1b6b67a6)
+
+
 
 ## Getting Started
 
